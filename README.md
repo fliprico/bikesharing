@@ -22,3 +22,13 @@ Our visualization depicts the length of time that bikes are checked out for each
 ![Trips by Weekday per Hour](https://user-images.githubusercontent.com/111805716/213967818-a2d7004a-2f2d-478d-9e55-18728029aef5.png)
 
 * Trips by Gender Based on Weekdays per Hour
+
+![Trips by Weekday per Hour](https://user-images.githubusercontent.com/111805716/213967959-4c96ad7b-e13a-41ff-9618-b087fdcb798d.png)
+
+* User Trips by Gender by Weekday
+
+![User trips by Gender by Weekday](https://user-images.githubusercontent.com/111805716/213968219-0a1c642b-4908-4aee-8491-bb5272ac46c3.png)
+
+Our final sheet has also been designed as a heatmap. This chart is specifically important as it helps us to identify growth opportunities. The company could enhance its market share by targeting the other genders based on our analyses.
+
+
