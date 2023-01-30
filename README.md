@@ -31,4 +31,7 @@ Our visualization depicts the length of time that bikes are checked out for each
 
 Our final sheet has also been designed as a heatmap. This chart is specifically important as it helps us to identify growth opportunities. The company could enhance its market share by targeting the other genders based on our analyses.
 
+## Summary
 
+For a preview of our Dashboards and our Tableau Story, you can find a link to our Dashboard here:
+https://public.tableau.com/app/profile/derrick.defor/viz/BikesharingTableauChallenge_16750495957850/CheckoutTimesforUsers?publish=yes
